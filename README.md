@@ -3,7 +3,12 @@
 
 ## 🚀 Run on Google Colab
 
+#### sk-learn version
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bxn1Eb43hsYnt1Y_dUXoQROBSfsprhDu?usp=sharing)
+
+#### Spark version
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sHevpMgFE3mTjXnxAiMDmRMCeDc5v8Fn?usp=sharing)
+
 
 ## 📊 View on Kaggle
 
